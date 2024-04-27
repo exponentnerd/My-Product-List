@@ -1,0 +1,21 @@
+/* App.css */
+
+/* Center content vertically and horizontally */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Ensure the container takes up the full height of the viewport */
+}
+
+/* Style navbar */
+.navbar {
+  width: 100%;
+}
+
+/* Style product list container */
+.product-list-container {
+  margin-top: 20px; /* Add margin to separate navbar from product list */
+  text-align: center; /* Align child elements to the center */
+}
