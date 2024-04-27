@@ -25,3 +25,5 @@ clone the repository @ https://github.com/exponentnerd/My-Product-List.git
 on your terminal run npm intall to install all the packages 
 
 npm run dev on your local terminal to start the application 
+
+to view the project live visit `https://my-product-list-theta.vercel.app/`
