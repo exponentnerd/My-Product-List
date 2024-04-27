@@ -20,7 +20,7 @@ Add pagination and make it just 2 pages: Pagination is implemented using the Pag
 # Installation
 I  bootstrap the project using npm create vite
 
-clone the repository @ https://github.com/exponentnerd/my-product-list.git
+clone the repository @ https://github.com/exponentnerd/My-Product-List.git
 
 on your terminal run npm intall to install all the packages 
 
